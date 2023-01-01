@@ -1,6 +1,6 @@
 ### Hi there 👋
-## My name is TaeHyeon Kim.
-## Thanks for reading!
+## My name is Taehyeon Kim.
+## Thanks for watching!
 
 <!--
 **DevTae/DevTae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
