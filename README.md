@@ -47,5 +47,11 @@ _Major in Department of Computer Science and Engineering_<br/>
  - HEMA Rock Music Band Club (Rookie Representative Team Vocal) (2022.4 - )
  - Hanyang Global Mentoring Volunteer (2022.4 - 2022.7, 2022.9 - 2022.10)
  - 9th ERICA Software-Up Start Up Ideaton (2022.6)
- - Creative Convergence Camp (Grand Prize) (2022.7)
- - Undergraduate Research Student in Edge Cloud Lab (2023.1 - )
+ - **Creative Convergence Camp** (2022.7)
+   - Win a **Grand Prize**
+   - Solve the society problem in Yangpyeong-gun
+   - Participated 4 University (Hanyang Univ. ERICA, Kwangwoon University, Soongsil University, Dankook University)
+ - **Undergraduate Research Student in Edge Cloud Lab** (2023.1 - 2023.2)
+   - Learn about how to operates the linux device driver
+   - Make materials for future under-graduate students [link](https://github.com/DevTae/Linux-Device-Driver)
+ - **Undergraduate Research Student in Multimodal Intelligence and Interaction Group** (2023.3 - 2023.12)
