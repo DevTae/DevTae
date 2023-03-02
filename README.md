@@ -54,4 +54,4 @@ _Major in Department of Computer Science and Engineering_<br/>
  - **Undergraduate Research Student in Edge Cloud Lab** (2023.1 - 2023.2)
    - Learn about how to operates the linux device driver
    - Make materials for future under-graduate students [link](https://github.com/DevTae/Linux-Device-Driver)
- - **Undergraduate Research Student in Multimodal Intelligence and Interaction Group** (2023.3 - 2023.12)
+ - **Undergraduate Research Student in Multimodal Intelligence and Interaction Lab** (2023.3 - 2023.12)
