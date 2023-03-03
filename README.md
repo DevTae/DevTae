@@ -39,14 +39,8 @@ _Major in Department of Computer Science and Engineering_<br/>
 <br/> 
 
 ### ACTIVITIES
- - 0&1 Algorithm Study Club (2019.3 - 2019.12)
- - HYCUBE Security Study Club (2019.3 - 2019.12)
- - 3rd ERICA Software-Up Start Up Ideaton (2019.9)
- - Military Service in Army (2020.4 - 2021.10)
- - 8th ERICA Software-Up Start Up Ideaton (2022.4)
  - HEMA Rock Music Band Club (Rookie Representative Team Vocal) (2022.4 - )
  - Hanyang Global Mentoring Volunteer (2022.4 - 2022.7, 2022.9 - 2022.10)
- - 9th ERICA Software-Up Start Up Ideaton (2022.6)
  - **Creative Convergence Camp** (2022.7)
    - Win a **Grand Prize**
    - Solve the social problem in Yangpyeong-gun
