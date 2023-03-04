@@ -9,28 +9,27 @@ _Major in Department of Computer Science and Engineering_<br/>
 <br/>
 
 ### PROGRAMMING EXPERIENCE
-- Developing Infinity Calculator
-  - Analyze how to operate system on memory in detailed
-  - Do co-operating with other 3 players
-  - Use C programming skill on that project
-  - DevTae/InfinityCalculator (https://github.com/DevTae/InfinityCalculator)
- 
-- Developing Process Diagnostician
-  - List all processes and upload selected process on VirusTotal
-  - Use C, Python (VirusTotal API) programming skills on that project
-  - DevTae/ProcessDiagnostician (https://github.com/DevTae/ProcessDiagnostician)
+- Signature Project
+  - will be updated at soon
 
-- Developing Stock Database System
-![preview2](https://user-images.githubusercontent.com/55177359/211186525-b162f5e3-0e1a-40c0-af47-057d6e3afd78.png)
-  - Save and load the stock's information contained price data
-  - Use C#, Kiwoom Open API+ programming skills
- 
+- Undergraduate Research Student Projects
+  - **Undergraduate Research Student in Edge Cloud Lab** (2023.1 - 2023.2)
+    - Learn about how to operates the linux device driver
+    - Make materials for future under-graduate students in this [link](https://github.com/DevTae/Linux-Device-Driver)
+  - **Undergraduate Research Student in Multimodal Intelligence and Interaction Lab** (2023.3 - 2023.12)
 
-- Experience on Learning About the Memory Architecture and Assembly Language
-  - An understanding of how to operate the system on memory is required
-  - Assembly Code Link : https://github.com/DevTae/acmicpc/blob/master/asm32/2557.s
-  - Personal Blog Posting Link : https://ahdelron.tistory.com/9
-<br/>
+- Other Programming Experiences
+  - Mini Projects
+    - Tetris Game
+    - Auto-Saving Notepad
+    - LyricsSceneMaker
+    - StockDatabase
+  - University Activities
+    - Indian-Poker Game
+    - ProcessDiagnostician
+    - InfinityCalculator
+    - other team-projects
+  - You could see more informations in this [link](https://github.com/DevTae/DevTae/blob/main/PROJECTS.md)
 
 ### SKILLS and TECHNIQUES
  - Software/Tools - C, C++, C#, Java, Python, MySQL, PHP, MATLAB, JUnit5, Git, Jira
@@ -45,7 +44,3 @@ _Major in Department of Computer Science and Engineering_<br/>
    - Win a **Grand Prize**
    - Solve the social problem in Yangpyeong-gun
    - Participated 4 University (Hanyang Univ. ERICA, Kwangwoon University, Soongsil University, Dankook University)
- - **Undergraduate Research Student in Edge Cloud Lab** (2023.1 - 2023.2)
-   - Learn about how to operates the linux device driver
-   - Make materials for future under-graduate students [link](https://github.com/DevTae/Linux-Device-Driver)
- - **Undergraduate Research Student in Multimodal Intelligence and Interaction Lab** (2023.3 - 2023.12)
