@@ -12,8 +12,8 @@ _Major in Department of Computer Science and Engineering_<br/>
 - Signature Project
   - Web Trading System Simulation (will be updated at soon)
   - [StockDatabase](https://github.com/DevTae/StockDatabasePreview)
-    - Save about `2367 stocks` and `9,952,847 daily datas` in file-system database from Korea market (KOSPI, KOSDAQ) on 2023/02/17
-    - `Save of --% previous processing time` in calculating Leading Span of Ichimoku by using the `Segment Tree Algorithm`
+    - Save about `2367 stocks` and `9,952,847 daily datas` in file-system database from Korea market (KOSPI, KOSDAQ)
+    - Make a `Saving of --% previous processing time` in calculating Leading Span of Ichimoku by using the `Segment Tree Algorithm`
     - Use this datas **to make own buying/selling strategy**
 
 - Undergraduate Research Student Projects
