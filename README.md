@@ -14,7 +14,7 @@ _Major in Department of Computer Science and Engineering_<br/>
   - [StockDatabase](https://github.com/DevTae/StockDatabasePreview)
     - Save about `2367 stocks` and `9,952,847 daily datas` in file-system database from Korea market (KOSPI, KOSDAQ)
     - Make a `Saving of 72% previous processing time` in calculating Leading Span of Ichimoku about `a data set of 10 million` by using the `Segment Tree Algorithm`
-    - Use this datas **to make own buying/selling strategy**
+    - Use these datas **to make own buying/selling strategy**
 
 - Undergraduate Research Student Projects
   - **Undergraduate Research Student in Edge Cloud Lab** (2023.1 - 2023.2)
