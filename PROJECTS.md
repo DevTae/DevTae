@@ -16,13 +16,6 @@
   - Use C# WPF programming skill
   - DevTae/LyricsSceneMaker (https://github.com/DevTae/LyricsSceneMaker)
 
-- Developing Stock Database System
-  - Save and load the stock's information contained price data
-  - Analyze the pattern of price datas to find expectable stocks using the method as like **Linear Regression**
-  - Implement the method calculating **Linear Regression Model** by using the method named **Least Square Method**
-  - Use C# Winform, Kiwoom Open API+ programming skills
-  - DevTae/StockDatabasePreview (https://github.com/DevTae/StockDatabasePreview)
-
 -----
 
 ### PROGRAMMING EXPERIENCE (in University Activities)
