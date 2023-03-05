@@ -33,6 +33,7 @@ _Major in Department of Computer Science and Engineering_<br/>
     - InfinityCalculator
     - other team-projects
   - You could see more detailed informations in this [link](https://github.com/DevTae/DevTae/blob/main/PROJECTS.md)
+<br/>
 
 ### SKILLS and TECHNIQUES
  - Software/Tools - C, C++, C#, Java, Python, MySQL, PHP, MATLAB, JUnit5, Git, Jira
