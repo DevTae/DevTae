@@ -10,7 +10,11 @@ _Major in Department of Computer Science and Engineering_<br/>
 
 ### PROGRAMMING EXPERIENCE
 - Signature Project
-  - will be updated at soon
+  - Web Trading System Simulation (will be updated at soon)
+  - [StockDatabase](https://github.com/DevTae/StockDatabasePreview)
+    - Save about `2367 stocks` and `9,952,847 daily datas` in file-system database from Korea market (KOSPI, KOSDAQ) on 2023/02/17
+    - Save of --% previous processing time` in calculating Leading Span of Ichimoku by using the `Segment Tree Algorithm`
+    - Use this datas **to make own buying/selling strategy**
 
 - Undergraduate Research Student Projects
   - **Undergraduate Research Student in Edge Cloud Lab** (2023.1 - 2023.2)
@@ -23,7 +27,6 @@ _Major in Department of Computer Science and Engineering_<br/>
     - Tetris Game
     - Auto-Saving Notepad
     - LyricsSceneMaker
-    - StockDatabase
   - University Activities
     - Indian-Poker Game
     - ProcessDiagnostician
