@@ -41,7 +41,7 @@ _Major in Department of Computer Science and Engineering_<br/>
  ![preview](https://user-images.githubusercontent.com/55177359/211186492-460fc33f-a2b9-4852-a534-ac27600c025e.png)
 <br/> 
 
-### ACTIVITIES
+### OTHER ACTIVITIES
  - HEMA Rock Music Band Club (Rookie Representative Team Vocal) (2022.4 - )
  - Hanyang Global Mentoring Volunteer (2022.4 - 2022.7, 2022.9 - 2022.10)
  - **Creative Convergence Camp** (2022.7)
