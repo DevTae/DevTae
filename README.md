@@ -13,7 +13,7 @@ _Major in Department of Computer Science and Engineering_<br/>
   - Web Trading System Simulation (will be updated at soon)
   - [StockDatabase](https://github.com/DevTae/StockDatabasePreview)
     - Save about `2367 stocks` and `9,952,847 daily datas` in file-system database from Korea market (KOSPI, KOSDAQ)
-    - Apply `the Asynchronous Method` on downloading stock datas from Kiwoom OpenAPI and Naver Finance
+    - Apply `the asynchronous method` on downloading stock datas from Kiwoom OpenAPI and Naver Finance
     - Make a `Saving of 72% previous processing time` in calculating Leading Span of Ichimoku about `a data set of 10 million` by using the `Segment Tree Algorithm`
     - Use these datas **to make own buying/selling strategy**
 
