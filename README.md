@@ -13,7 +13,7 @@ _Major in Department of Computer Science and Engineering_<br/>
 
   - [StockDatabase](https://github.com/DevTae/StockDatabasePreview) *(using C# Winforms)*
     - Save `2367 stocks`, `9,952,847 daily datas` in File-System database
-    - Apply `asynchronous method` on downloading datas
+    - Apply `the asynchronous method` on downloading datas
     - Save of `72% previous processing time` in calculating `a data set of 10 million`
     - Backtest the buying/selling strategy
 
