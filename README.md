@@ -9,7 +9,7 @@ _Major in Department of Computer Science and Engineering_<br/>
 <br/>
 
 ### PROGRAMMING EXPERIENCE
-- Signature Project
+- **Signature Project**
 
   - [StockDatabase](https://github.com/DevTae/StockDatabasePreview) *(using C# Winforms)*
     - Save `2367 stocks`, `9,952,847 daily datas` in File-System database
@@ -19,7 +19,7 @@ _Major in Department of Computer Science and Engineering_<br/>
 
 <br/>
 
-- Undergraduate Research Student Projects
+- **Undergraduate Research Student Projects**
 
   - Edge Cloud Lab *(2023.1 - 2023.2)*
     - Make materials about the `Linux Device Driver` in this [link](https://github.com/DevTae/Linux-Device-Driver)
@@ -29,7 +29,7 @@ _Major in Department of Computer Science and Engineering_<br/>
 
 <br/>
 
-- Other Programming Experiences
+- **Other Programming Experiences**
 
   - Mini Projects
     - [Tetris Game](https://github.com/DevTae/TetriStyle) *(using Java)*
@@ -46,7 +46,7 @@ _Major in Department of Computer Science and Engineering_<br/>
 <br/>
 
 ### SKILLS and TECHNIQUES
- - Software/Tools - C, C++, C#, Java, Python, MySQL, PHP, MATLAB, JUnit5, Git, Jira
+ - **Software/Tools** - C, C++, C#, Java, Python, MySQL, PHP, MATLAB, JUnit5, Git, Jira
  - Experience on Photoshop and Illustrator in this [link](https://github.com/DevTae/DesignPortfolio)
  ![preview](https://user-images.githubusercontent.com/55177359/211186492-460fc33f-a2b9-4852-a534-ac27600c025e.png)
 <br/> 
