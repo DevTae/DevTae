@@ -53,7 +53,7 @@ _Major in Department of Computer Science and Engineering_<br/>
 
 ### OTHER ACTIVITIES
  - HEMA Rock Music Band Club (Rookie Representative Team Vocal) *(2022.4 - )*
- - Hanyang Global Mentoring Volunteer *(2022.4 - 2022.7, 2022.9 - 2022.10)*
+ - Hanyang Global Mentoring Volunteer *(2022.4 - 2022.10)*
  - **Creative Convergence Camp** *(2022.7)*
    - Win a `Grand Prize`
    - Solve **the social problem** in Yangpyeong-gun
