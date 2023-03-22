@@ -12,17 +12,17 @@ _Major in Department of Computer Science and Engineering_<br/>
 - **Signature Project**
 
   - [StockDatabase](https://github.com/DevTae/StockDatabasePreview) *(using C# Winforms)*
-    - Save `2367 stocks`, `9,952,847 daily datas` in File-System database
-    - Apply `the asynchronous method` on downloading datas
-    - Save of `72% previous processing time` in calculating `a data set of 10 million`
-    - Backtest the buying/selling strategy
+    - Saving `2367 stocks`, `9,952,847 daily datas` in File-System database
+    - Adopting `the asynchronous method` on downloading datas
+    - Saving of `72% previous processing time` in calculating `a data set of 10 million`
+    - Backtesting the buying/selling strategy
 
 <br/>
 
 - **Undergraduate Research Student Projects**
 
   - Edge Cloud Lab *(2023.1 - 2023.2)*
-    - Make materials about the `Linux Device Driver` in this [link](https://github.com/DevTae/Linux-Device-Driver)
+    - Making materials about the `Linux Device Driver` in this [link](https://github.com/DevTae/Linux-Device-Driver)
       
   - Multimodal Intelligence and Interaction Lab *(2023.3 - )*
     - Deep Learning Study *(2023 1st Semester)* in [this link](https://github.com/DevTae/MILab-DeepLearning-Study)
@@ -56,5 +56,5 @@ _Major in Department of Computer Science and Engineering_<br/>
  - Hanyang Global Mentoring Volunteer *(2022.4 - 2022.10)*
  - **Creative Convergence Camp** *(2022.7)*
    - Win a `Grand Prize`
-   - Solve **the social problem** in Yangpyeong-gun
+   - Solving **the social problem** in Yangpyeong-gun
    - Participated 4 University (Hanyang Univ. ERICA, Kwangwoon University, Soongsil University, Dankook University)
