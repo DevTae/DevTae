@@ -11,7 +11,7 @@ _Major in Department of Computer Science and Engineering_<br/>
 ### PROGRAMMING EXPERIENCE
 - **Signature Project**
 
-  - [StockDatabase](https://github.com/DevTae/StockDatabasePreview) *(using C# Winforms)*
+  - [StockDatabase](https://github.com/DevTae/StockDatabasePreview) *(using C# Winforms)* *(2021.11 - )*
     - Saving `2367 stocks`, `9,952,847 daily datas` in File-System database
     - Adopting `the asynchronous method` on downloading datas
     - Saving of `72% previous processing time` in calculating `a data set of 10 million`
