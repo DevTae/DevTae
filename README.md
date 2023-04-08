@@ -15,7 +15,6 @@ _Major in Department of Computer Science and Engineering_<br/>
     - Saving `2367 stocks`, `9,952,847 daily datas` in File-System database
     - Adopting `the asynchronous method` on downloading datas
     - Saving of `72% previous processing time` in calculating `a data set of 10 million`
-    - Backtesting the buying/selling strategy
 
 <br/>
 
