@@ -1,4 +1,4 @@
-Tae Hyeon Kim
+Kim Taehyeon
 =====
 #### Email : dev.taehyeon.kim@gmail.com
 <br/>
