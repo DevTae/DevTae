@@ -25,29 +25,24 @@ _Major in Department of Computer Science and Engineering_<br/>
       
   - Multimodal Intelligence and Interaction Lab *(2023.3 - )*
     - Deep Learning Study *(2023 1st Semester)* in [this link](https://github.com/DevTae/MILab-DeepLearning-Study)
+    - Speech Recognition R&D Project in *2023.3 - 2023.12*
 
 <br/>
 
 - **Other Programming Experiences**
 
-  - Mini Projects
+  - Toy Projects
     - [Tetris Game](https://github.com/DevTae/TetriStyle) *(using Java)*
     - [LyricsSceneMaker](https://github.com/DevTae/LyricsSceneMaker) *(using C# WPF)*
     - Auto-Saving Notepad *(using C# Winform)*
 
-  - University Activities
-    - Indian-Poker Game *(using Python)*
-    - ProcessDiagnostician *(using C Language)*
-    - InfinityCalculator *(using C Language)*
-    
-  - You could see more detailed informations in this [link](https://github.com/DevTae/DevTae/blob/main/PROJECTS.md)
+  - You could see more informations in this [link](https://github.com/DevTae/DevTae/blob/main/PROJECTS.md)
 
 <br/>
 
 ### SKILLS and TECHNIQUES
- - **Software/Tools** - C, C++, C#, Java, Python, MySQL, PHP, MATLAB, JUnit5, Git, Jira
- - Experience on Photoshop and Illustrator in this [link](https://github.com/DevTae/DesignPortfolio)
- ![preview](https://user-images.githubusercontent.com/55177359/211186492-460fc33f-a2b9-4852-a534-ac27600c025e.png)
+ - **Software/Tools** - C, C++, C#, Java, Python, MySQL, PHP
+ - Experiences on Photoshop and Illustrator in this [link](https://github.com/DevTae/DesignPortfolio)
 <br/> 
 
 ### OTHER ACTIVITIES
