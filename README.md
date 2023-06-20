@@ -10,8 +10,8 @@ DevTae (Kim Taehyeon)
 | [Tetris Game](https://github.com/DevTae/TetriStyle) | Tetris GUI Game using `Java` | 2019.1 |
 | [LyricsSceneMaker](https://github.com/DevTae/LyricsSceneMaker) | Karaoke Screen Maker using `C# WPF` | 2020.3 |
 | [**StockDatabase**](https://github.com/DevTae/StockDatabasePreview) | Stock Information File-System Database using `C# WinForms` | 2021.11 - 2022.2 |
-| [**Speech Feedback System**](https://github.com/DevTae/SpeechFeedback) | Deep Learning Speech Recognition Project using `Kospeech` and `FastAPI` | 2023.3 - 2023.6 |
-| [**StockDatabase2**](https://github.com/DevTae/StockDatabase2) | Stock Information Website using `PostgreSQL`, `Django` and `React` | 2023.6 - |
+| [**Speech Feedback System**](https://github.com/DevTae/SpeechFeedback) | Deep Learning Speech Recognition Project using `KoSpeech`, `Docker`, and `FastAPI` | 2023.3 - 2023.6 |
+| [**StockDatabase2**](https://github.com/DevTae/StockDatabase2) | Stock Information Website using `PostgreSQL`, `Django`, and `React` | 2023.6 - |
 | Robust Speech Recognition System | Deep Learning R&D Project in MILab | 2023.3 - 2023.12 |
 
   - You could see more informations in this [link](https://github.com/DevTae/DevTae/blob/main/PROJECTS.md)
