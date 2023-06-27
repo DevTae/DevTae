@@ -23,7 +23,7 @@ DevTae (Kim Taehyeon)
 | Name | Description | Date |
 -------|-------------|-------
 | HEMA Rock Music Band Club | Rookie Representative Team Vocal | 2022.4 - 2023.4 |
-| Hanyang Global Mentoring Volunteer | Teaching about Hangul and their future career to foreign students  | 2022.4 - 2022.10 |
+| Hanyang Global Mentoring Volunteer | Teaching about Hangul and their future career to **foreign students**  | 2022.4 - 2022.10 |
 | Creative Convergence Camp | **Grand Prize** / Solving the social problem in Yangpyeong-gun | 2022.7 |
 | Undergraduate Researcher in Edge Cloud Lab | Making materials about **Linux Device Driver** using `C` | 2023.1 - 2023.2 |
-| Undergraduate Researcher in MILab | Researching R&D Project using **Deep Learning** | 2023.3 - |
+| Undergraduate Researcher in MILab | Researching **Deep Learning** R&D Project / **Ubuntu Server Assistant Administrator** in MILab | 2023.3 - |
