@@ -13,7 +13,7 @@ DevTae (Kim Taehyeon)
 | Robust Speech Recognition System | Deep Learning R&D Project in MILab | 2023.3 - 2023.12 |
 | [**Korean Speech Feedback System**](https://github.com/DevTae/SpeechFeedback) | Deep Learning Speech Recognition Feedback Project using `KoSpeech`, `Docker`, and `FastAPI` | 2023.3 - 2023.6 |
 | [**StockDatabase2**](https://github.com/DevTae/StockDatabase2) | Stock Information Website using `PostgreSQL`, `Django`, and `React` | 2023.6 - |
-| [pronunciation-evaluator](https://github.com/DevTae/pronunciation-evaluator) | Detailed Pronunciation Evaluator using Dynamic Programming using `Python` | 2023.7 |
+| [pronunciation-evaluator](https://github.com/DevTae/pronunciation-evaluator) | Detailed Pronunciation Evaluator with Dynamic Programming using `Python` | 2023.7 |
 
   - You could see more informations in this [link](https://github.com/DevTae/DevTae/blob/main/PROJECTS.md)
 
