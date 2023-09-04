@@ -13,7 +13,7 @@ DevTae (Kim Taehyeon)
 | ☆ | [Hangeul Speech Feedback System](https://github.com/DevTae/SpeechFeedback) | `KoSpeech`, `Docker`, `FastAPI` 를 활용한 **딥러닝 한국어 발음 교정 시스템** 개발 | 2023.3 - 2023.6 |
 | | [pronunciation-evaluator](https://github.com/DevTae/pronunciation-evaluator) | `Python`, `Dynamic Programming`, `IPA 기호` 를 활용한 **발음 평가 시스템** 개발 | 2023.7 |
 | ★ | [StockPricePrediction](https://github.com/DevTae/StockPricePredictionPreview) | `PyTorch` 를 활용한 **주가 예측 딥러닝 모델** 개발 | 2023.7 - |
-| ★ | [StockDatabase2](https://github.com/DevTae/StockDatabase2) | `PostgreSQL`, `Django` 를 활용한 **거래대금, 가격예측 기반 주식 정보 제공** 웹사이트 개발 | 2023.7 - |
+| ★ | [StockFlow](https://github.com/DevTae/StockFlow) | `PostgreSQL`, `Django` 를 활용한 **거래대금, 가격예측 기반 주식 정보 제공** 웹사이트 개발 | 2023.7 - |
 
 
 <br/>
