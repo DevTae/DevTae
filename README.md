@@ -14,7 +14,7 @@ DevTae (Kim Taehyeon)
 | | [PronunciationEvaluator](https://github.com/DevTae/PronunciationEvaluator) | `Python`, `Dynamic Programming`, `IPA 기호` 를 활용한 **발음 평가 지표** 개발 | 2023.7 |
 | ★ | [StockPricePrediction](https://github.com/DevTae/StockPricePredictionPreview) | `PyTorch` 를 활용한 **주가 예측 딥러닝 모델** 개발 | 2023.7 - |
 | ★ | [StockFlow](https://github.com/DevTae/StockFlow) | `Django`, `PostgreSQL` 를 활용한 **거래대금, 가격예측 기반 주식 정보 제공** 웹사이트 개발 | 2023.7 - |
-| | Sleek | `Java Spring Boot`, `PostgreSQL` 를 활용한 영어 발음 교정 시나리오 공유 플랫폼 웹사이트 개발 | 2023.9 - |
+| | Sleek | `Java Spring Boot`, `PostgreSQL` 를 활용한 **영어 발음 교정 시나리오 공유 플랫폼** 웹사이트 개발 | 2023.9 - |
 
 
 <br/>
