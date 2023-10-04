@@ -12,7 +12,7 @@ DevTae (Kim Taehyeon)
 | ☆ | [SpeechFeedback](https://github.com/DevTae/SpeechFeedback) | **딥러닝**을 활용한 `한국어 발음 교정 시스템` 개발 | 2023.3 - 2023.6 |
 | | [PronunciationEvaluator](https://github.com/DevTae/PronunciationEvaluator) | **IPA 기호**를 활용한 `발음 평가 지표` 개발 | 2023.7 |
 | ★ | [StockFlow](https://github.com/DevTae/StockFlow) | **Django**, [StockPricePrediction](https://github.com/DevTae/StockPricePredictionPreview) 를 활용한 `주식 분석 정보 제공 웹` 개발 | 2023.7 - ~ing |
-| | 4D Chair Project | **Python** 을 활용한 `청각 신호 기반 이벤트 디텍터` 개발 | 2023.9 - ~ing |
+| | 4D Chair Project | **Python** 을 활용한 `음향 신호 기반 이벤트 디텍터` 개발 | 2023.9 - ~ing |
 | | Sleek | **Java Spring Boot** 를 활용한 `영어 발음 교육 콘텐츠 플랫폼` 개발 | 2023.9 - ~ing |
 | | DB Inc. Cloud/MSA Project | **Java Spring Boot** 를 활용한 `사원 업무 관리 플랫폼` 개발 | 2023.10 - ~ing |
 
