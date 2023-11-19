@@ -38,8 +38,9 @@ DevTae (Kim Taehyeon)
 #### 연구 및 외주용역 프로젝트 경험
 | 이름 | 설명 | 기간 |
 |-------|-------------|-------
-| (주)미래시티글로벌 R&D 프로젝트 | **딥러닝**을 활용한 사용자 인터페이스 기반 `로봇 제어 알고리즘` 개발 | 2023.3 - 2023.12 |
-| MILab 4D 의자 연구 프로젝트 | 음향 신호 기반 `햅틱 효과 자동 생성 알고리즘` 개발 | 2023.9 - 2023.11 |
+| (주)미래시티글로벌 R&D 프로젝트 | `음성인식`을 활용한 사용자 인터페이스 기반 **로봇 제어 알고리즘** 개발 | 2023.3 - 2023.12 |
+| MILab 4D 의자 연구 프로젝트 | 음향 신호 데이터 기반 `햅틱 효과 자동 생성 알고리즘` 개발 | 2023.9 - 2023.11 |
+| 한양대 ERICA SW융합연구개발과제 Sleek | `Java Spring Boot` 및 `음성인식`을 활용한 **영어 발음 교정 앱** 기획 및 개발 | 2023.9 - |
 | (주)세홍 외주 프로젝트 | `설계자동화 소프트웨어`의 최신화 및 알고리즘 개선 | 2023.12 - |
 
 <br/>
@@ -48,12 +49,11 @@ DevTae (Kim Taehyeon)
 
 | 이름 | 설명 | 기간 |
 |-------|-------------|-------
-| [StockDatabase](https://github.com/DevTae/StockDatabasePreview) | **C#** 을 활용한 `주식 정보 데이터베이스` 및 `매매 전략 백테스팅 기능` 개발  | 2021.11 - 2022.3, <br/> 2022.8 - 2023.2 |
-| [SpeechFeedback](https://github.com/DevTae/SpeechFeedback) | **딥러닝**을 활용한 `한국어 발음 교정 시스템` 개발 | 2023.3 - 2023.6 |
-| [PronunciationEvaluator](https://github.com/DevTae/PronunciationEvaluator) | **IPA 기호**를 활용한 `발음 평가 지표` 개발 | 2023.7 |
-| [StockFlow](https://github.com/DevTae/StockFlow) | **Django**, [StockPricePrediction](https://github.com/DevTae/StockPricePredictionPreview) 를 활용한 `주식 분석 정보 제공 웹` 개발 | 2023.7 - |
-| Sleek | **Java Spring Boot** 및 **딥러닝**을 활용한 `영어 발음 교정 앱` 기획 및 개발 | 2023.9 - |
-| DB Inc. Cloud/MSA Project | **Java Spring Boot** 를 활용한 `사원 업무 관리 플랫폼` 개발 | 2023.10 - |
+| [StockDatabase](https://github.com/DevTae/StockDatabasePreview) | `C#` 을 활용한 **주식 정보 데이터베이스** 및 **매매 전략 백테스팅 기능** 개발  | 2021.11 - 2022.3, <br/> 2022.8 - 2023.2 |
+| [SpeechFeedback](https://github.com/DevTae/SpeechFeedback) | `음성인식`을 활용한 **한국어 발음 교정 시스템** 개발 | 2023.3 - 2023.6 |
+| [PronunciationEvaluator](https://github.com/DevTae/PronunciationEvaluator) | **IPA 기호**를 활용한 **발음 평가 지표** 개발 | 2023.7 |
+| [StockFlow](https://github.com/DevTae/StockFlow) | `Django`, [StockPricePrediction](https://github.com/DevTae/StockPricePredictionPreview) 를 활용한 **주식 분석 정보 제공 웹** 개발 | 2023.7 - |
+| [DB Inc. 캡스톤 프로젝트](https://github.com/DB-Inc-Capstone) | `Java Spring Boot` 및 `Cloud/MSA` 를 활용한 **사원 업무 관리 플랫폼** 개발 | 2023.10 - |
 
 <br/>
 
