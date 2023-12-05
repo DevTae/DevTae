@@ -50,11 +50,11 @@ DevTae (Kim Taehyeon)
 
 | 이름 | 설명 | 기간 |
 |-------|-------------|-------
-| [StockTools](https://github.com/DevTae/StockToolsPreview) | `C#` 을 활용한 **주식 데이터베이스**, **전략 백테스팅 기능** 및 **자동 매매 봇** 개발  | 2021.11 - 2022.3, <br/> 2022.8 - 2023.2, <br/> 2023.11 - |
-| [SpeechFeedback](https://github.com/DevTae/SpeechFeedback) | `FastAPI` 및 `딥러닝 기반 음성인식`을 활용한 **한국어 발음 교정 시스템** 개발 | 2023.3 - 2023.6 |
-| [PronunciationEvaluator](https://github.com/DevTae/PronunciationEvaluator) | **IPA 기호**를 활용한 **발음 평가 지표(PER)** 개발 | 2023.7 |
-| [DB Inc. 캡스톤 프로젝트](https://github.com/DB-Inc-Capstone) | `Java Spring Boot` 및 `Cloud/MSA` 를 활용한 **사원 업무 관리 플랫폼** 개발 | 2023.7 - 2024.6 |
-<!--| [StockFlow](https://github.com/DevTae/StockFlow) | `Django`, [StockPricePrediction](https://github.com/DevTae/StockPricePredictionPreview) 를 활용한 **주식 분석 정보 제공 웹** 개발 | 2023.7 - |-->
+| StockTools [[Repo]](https://github.com/DevTae/StockToolsPreview) | `C#` 을 활용한 **주식 데이터베이스**, **전략 백테스팅 기능** 및 **자동 매매 봇** 개발  | 2021.11 - 2022.3, <br/> 2022.8 - 2023.2, <br/> 2023.11 - |
+| SpeechFeedback [[Repo]](https://github.com/DevTae/SpeechFeedback) | `FastAPI` 및 `딥러닝 기반 음성인식`을 활용한 **한국어 발음 교정 시스템** 개발 | 2023.3 - 2023.6 |
+| PronunciationEvaluator [[Repo]](https://github.com/DevTae/PronunciationEvaluator) | **IPA 기호**를 활용한 **발음 평가 지표(PER)** 개발 | 2023.7 |
+| DB Inc. 캡스톤 프로젝트 [[Repo]](https://github.com/DB-Inc-Capstone) | `Java Spring Boot` 및 `Cloud/MSA` 를 활용한 **사원 업무 관리 플랫폼** 개발 | 2023.7 - 2024.6 |
+<!--| [StockFlow](https://github.com/DevTae/StockFlow) | `Django`, `StockPricePrediction` [[Repo]](https://github.com/DevTae/StockPricePredictionPreview) 를 활용한 **주식 분석 정보 제공 웹** 개발 | 2023.7 - |-->
 
 
 <br/>
@@ -66,7 +66,7 @@ DevTae (Kim Taehyeon)
 | HEMA 락밴드 중앙동아리 | 밴드동아리 신입생 대표팀 보컬 활동 | 2022.4 - 2023.4 |
 | 한양대학교 글로벌다문화 멘토링 | **외국인 학생**을 대상으로 **한글 교육** 진행 | 2022.4 - 2022.10 |
 | 지능형 로봇 산업분야 컨소시엄 창의융합캠프 |  `대상(1st) 수상` - 양평군의 사회 문제 해결 목적으로 진행된 아이디어 캠프 | 2022.7 |
-| Edge Cloud Lab 학부연구생 | **리눅스 기반 클라우드 기술**에 대한 [Linux Device Driver](https://github.com/DevTae/Linux-Device-Driver) 교육자료 제작 | 2023.1 - 2023.2 |
+| Edge Cloud Lab 학부연구생 | **리눅스 기반 클라우드 기술**에 대한 Linux Device Driver [[Repo]](https://github.com/DevTae/Linux-Device-Driver) 교육자료 제작 | 2023.1 - 2023.2 |
 | MILab 학부연구생 | **딥러닝** 및 **햅틱스**, **HCI** 연구실 학부연구생 / 연구실 **리눅스 GPU 서버 관리자** 역할 수행 | 2023.3 - |
 | 금융사관학교 | 대학생 국제경제 전문가 과정 60기 참여 - `우수조 선정` | 2023.11 |
 | 한국햅틱스학회 아이디어 공모전 - 현대자동차 | `최우수상(1st) 수상` - **현대자동차 미래모빌리티 햅틱 기술** 아이디어 공모전 | 2023.11 |
