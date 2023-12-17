@@ -50,7 +50,7 @@ DevTae (Kim Taehyeon)
 
 | 이름 | 설명 | 기간 |
 |-------|-------------|-------
-| StockTools [[Repo]](https://github.com/DevTae/StockToolsPreview) | `C#` 을 활용한 **주식 데이터베이스**, **전략 백테스팅 기능** 및 **자동 매매 봇** 개발  | 2021.11 - 2022.3, <br/> 2022.8 - 2023.2, <br/> 2023.11 - |
+| StockTools [[Repo]](https://github.com/DevTae/StockToolsPreview) | `C#` 을 활용한 **주식 데이터베이스**, **차트분석 백테스팅 기능** 및 **자동 매매 봇** 개발  | 2021.11 - 2022.3, <br/> 2022.8 - 2023.2, <br/> 2023.11 - |
 | SpeechFeedback [[Repo]](https://github.com/DevTae/SpeechFeedback) | `FastAPI` 및 `딥러닝 기반 음성인식`을 활용한 **한국어 발음 교정 시스템** 개발 | 2023.3 - 2023.6 |
 | PronunciationEvaluator [[Repo]](https://github.com/DevTae/PronunciationEvaluator) | **IPA 기호**를 활용한 **발음 평가 지표(PER)** 개발 | 2023.7 |
 | DB Inc. 캡스톤 프로젝트 [[Repo]](https://github.com/DB-Inc-Capstone) | `Java Spring Boot` 및 `Cloud/MSA` 를 활용한 **사원 업무 관리 플랫폼** 개발 | 2023.7 - 2024.6 |
