@@ -25,7 +25,7 @@ DevTae (Kim Taehyeon) - With all one's heart and soul.
     - **추세 및 군집 분석**을 활용한 **전략 백테스팅 프로그램** 개발 : 2022.8 - 2023.2
     - **자동 매매 봇** 개발 : 2023.12 -
   - `StockFlow` [[Repo]](https://github.com/DevTae/StockFlow) : 2023.12 - 
-    - **Django**, **StockPricePrediction** 를 활용한 **주식 거래대금 분석 정보 제공 웹** 개발
+    - **Django** 를 활용한 **주식 거래대금 분석 정보 제공 웹** 개발
   - `StockPricePrediction` [[Repo]](https://github.com/DevTae/StockPricePredictionPreview) : 2023.7 - 2023.8
     - **딥러닝**을 활용한 **주식 가격 시계열 데이터 분석 모델** 개발
 
