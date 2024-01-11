@@ -20,13 +20,13 @@ DevTae (Kim Taehyeon) - With all one's heart and soul.
 <br/>
 
 - 증권 프로젝트 경험
+  - `StockPricePrediction` [[Repo]](https://github.com/DevTae/StockPricePredictionPreview) : 2023.7 - 2023.8, 2024.1 - 
+    - **PyTorch**, **FastAPI** 를 활용한 **주식 가격 시계열 데이터 분석 모델** 개발
   - `BitgetTelegramSignal` [[Repo]](https://github.com/DevTae/BitgetTelegramSignal) : 2023.9 - 2023.10
     - **Bitget API** 와 **Telegram API** 를 활용한 **암호화폐 가격 신호 알람 시스템** 개발
-  - `StockPricePrediction` [[Repo]](https://github.com/DevTae/StockPricePredictionPreview) : 2023.7 - 2023.8
-    - **딥러닝**을 활용한 **주식 가격 시계열 데이터 분석 모델** 개발
   - `StockTools` [[Repo]](https://github.com/DevTae/StockToolsPreview) : 2021.11 - 2023.2
     - **C#** 을 활용한 **주식 데이터베이스 시스템** 개발 : 2021.11 - 2022.3
-    - **주식 가격 분석** 및 **테마 군집**을 활용한 **전략 백테스팅 프로그램** 개발 : 2022.8 - 2023.2
+    - **주식 보조지표** 및 **테마 군집**을 활용한 **전략 백테스팅 프로그램** 개발 : 2022.8 - 2023.2
   <!--   - `StockFlow` [[Repo]](https://github.com/DevTae/StockFlow) : 2023.12 - 
     - **Django** 를 활용한 **주식 거래대금 분석 정보 제공 웹** 개발 -->
   <!--- **키움 Open API+** 을 활용한 **자동 매매 봇** 개발 : 2023.12 - -->
