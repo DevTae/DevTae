@@ -23,7 +23,7 @@ DevTae (Kim Taehyeon) - With all one's heart and soul.
 
 - 증권 프로젝트 경험
   - `StockPricePrediction` [[Repo]](https://github.com/DevTae/StockPricePredictionPreview) : 2023.7 - 
-    - **RNN 시계열 데이터 분석**을 활용한 **중장기 시황 분석 프로그램** 개발
+    - **RNN 시계열 데이터 분석**을 활용한 **단기 가격 예측 프로그램** 개발
   - `BitgetTelegramSignal` [[Repo]](https://github.com/DevTae/BitgetTelegramSignal) : 2023.9 - 2023.10
     - **Bitget API** 와 **Telegram API** 를 활용한 **암호화폐 가격 신호 알람 시스템** 개발
   - `StockTools` [[Repo]](https://github.com/DevTae/StockToolsPreview) : 2021.11 - 2023.2
