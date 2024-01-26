@@ -9,7 +9,7 @@ DevTae (Kim Taehyeon) - With all one's heart and soul.
 <br/>
 
 - 연구 및 외주용역 프로젝트 경험
-  - `NK에듀 외주용역 프로젝트` : 2023.12 -
+  - `NK에듀 외주용역 프로젝트` : 2023.12 - 2024.7
     - **사용자 300명 규모**의 학생 관리 웹사이트 **백엔드 서버** 개발
   - `(주)세홍 설계자동화 프로젝트` : 2023.12 - 2024.7
     - **AutoCAD 작업도면 설계자동화 소프트웨어** 외주용역 단독 개발 (**4,000만 원**)
@@ -22,7 +22,7 @@ DevTae (Kim Taehyeon) - With all one's heart and soul.
 <br/>
 
 - 증권 프로젝트 경험
-  - `StockPricePrediction` [[Repo]](https://github.com/DevTae/StockPricePredictionPreview) : 2023.7 - 
+  - `StockPricePrediction` [[Repo]](https://github.com/DevTae/StockPricePredictionPreview) : 2023.7 - 2024.1
     - **딥러닝 시계열 데이터 분석**을 활용한 **주식 단기 가격 방향 예측 프로그램** 개발
   - `BitgetTelegramSignal` [[Repo]](https://github.com/DevTae/BitgetTelegramSignal) : 2023.9 - 2023.10
     - **Bitget API** 와 **Telegram API** 를 활용한 **암호화폐 가격 신호 알람 시스템** 개발
