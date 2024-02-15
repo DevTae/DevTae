@@ -10,11 +10,11 @@ DevTae (Kim Taehyeon) - With all one's heart and soul.
 
 - 연구 및 외주용역 프로젝트 경험
   - `NK에듀 학생 숙제 웹사이트 프로젝트` : 2023.12 - 2024.7
-    - **사용자 300명 규모**의 **학생 숙제 관리 웹사이트 백엔드** 외주용역 개발
+    - **Java Spring Boot** 기반 **학생 숙제 관리 웹사이트** 백엔드 외주용역 개발
   - `(주)세홍 건축회사 설계자동화 프로젝트` : 2023.12 - 2024.7
-    - **AutoCAD 작업도면 설계자동화 소프트웨어** 외주용역 PM 및 단독 개발 (4,000만 원 규모)
+    - AutoCAD 작업도면 설계자동화 소프트웨어 **외주용역 PM 및 단독 개발** (4,000만 원 규모)
   - `(주)미래시티글로벌 로봇 음성인식 프로젝트` : 2023.3 - 2023.12
-    - 소음 환경에서의 **음성인식 기술**을 활용한 **로봇 제어 알고리즘** 연구 개발 (1저자)
+    - 소음 환경에서의 **음성인식 AI 기술**을 활용한 **로봇 제어 알고리즘** 연구 개발 담당
   - `MILab 4D 의자 특수효과 생성 프로젝트` : 2023.9 - 2023.11
     - 음향 신호 데이터 기반 **햅틱 효과 자동생성 알고리즘** 연구 개발
 
@@ -22,27 +22,22 @@ DevTae (Kim Taehyeon) - With all one's heart and soul.
 
 - 증권 프로젝트 경험
   - `InvestorRoadmap` [[Repo]](https://github.com/DevTae/InvestorRoadmap) : 2024.1 - 2024.2
-    - **eXplainable AI**(설명 가능한 AI)를 활용한 **투자 습관 교정 솔루션** 개발
+    - **eXplainable AI** 기반 **투자 습관 교정 솔루션** 개발
   - `StockPricePrediction` [[Repo]](https://github.com/DevTae/StockPricePredictionPreview) : 2023.7 - 2024.1
-    - **딥러닝 시계열 데이터 분석**을 활용한 **주식 단기 가격 방향 예측 프로그램** 개발
-  - `BitgetTelegramSignal` [[Repo]](https://github.com/DevTae/BitgetTelegramSignal) : 2023.9 - 2023.10
-    - **Bitget API** 와 **Telegram API** 를 활용한 **암호화폐 가격 신호 알람 시스템** 개발
+    - **시계열 분석 AI** 기반 **주식 가격 방향 예측 모델** 개발
   - `StockTools` [[Repo]](https://github.com/DevTae/StockToolsPreview) : 2021.11 - 2023.2
-    - **C#** 을 활용한 **주식 데이터베이스 시스템** 개발 : 2021.11 - 2022.3
-    - **주식 보조지표** 및 **테마 군집 정보**를 활용한 **전략 백테스팅 프로그램** 개발 : 2022.8 - 2023.2
-  <!--   - `StockFlow` [[Repo]](https://github.com/DevTae/StockFlow) : 2023.12 - 
-    - **Django** 를 활용한 **주식 거래대금 분석 정보 제공 웹** 개발 -->
-  <!--- **키움 Open API+** 을 활용한 **자동 매매 봇** 개발 : 2023.12 - -->
+    - **주식 데이터, 보조지표** 기반 **데이터 수집 시스템** 개발 : 2021.11 - 2022.3
+    - **전략 시뮬레이션** 기반 **주식 백테스팅 프로그램** 개발 : 2022.8 - 2023.2
 
 <br/>
 
 - 이외 프로젝트 경험
-  - `DB Inc. 캡스톤 프로젝트` [[Repo]](https://github.com/DB-Inc-Capstone) : 2023.7 - 2024.6
-    - **Java Spring Boot** 및 **Cloud/MSA** 를 활용한 **사원 업무 관리 플랫폼** 개발
+  - `DB Inc. 캡스톤디자인` [[Repo]](https://github.com/DB-Inc-Capstone) : 2023.7 - 2024.6
+    - **Cloud/MSA(Microservice Architecture)**, **Java Spring Boot** 기반 **사원 업무 관리 웹사이트 백엔드** 개발
   - `PronunciationEvaluator` [[Repo]](https://github.com/DevTae/PronunciationEvaluator) : 2023.7
-    - **IPA 기호**를 활용한 **발음 평가 지표(PER)** 개발
+    - **IPA(International Phonetic Alphabet) 발음 기호** 기반 **발음 평가 지표(PER)** 개발
   - `SpeechFeedback` [[Repo]](https://github.com/DevTae/SpeechFeedback) : 2023.3 - 2023.6
-    - **FastAPI** 및 **딥러닝 기반 음성인식**을 활용한 **한국어 발음 교정 시스템** 개발
+    - **음성인식 AI 기술**, **FastAPI** 기반 **한국어 발음 교정 시스템** 개발
 
 <br/>
 
