@@ -8,6 +8,13 @@ DevTae (Kim Taehyeon) - With all one's heart and soul.
 
 <br/>
 
+- 역량 키워드
+  - `Back-end` / `Cloud/MSA`
+  - `AI` / `Robust Speech Recognition` / `Data Analysis`
+  - `Financial Service`
+
+<br/>
+
 - 개발 프로젝트 경험
   - `(주)세홍 건축회사 설계자동화 프로젝트` : 2023.12 - 2024.7
     - **C#** 기반 AutoCAD 작업도면 설계자동화 소프트웨어 **외주용역 PM 및 단독 개발** (4,000만 원 규모)
