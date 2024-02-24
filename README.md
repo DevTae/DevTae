@@ -9,7 +9,7 @@ DevTae (Kim Taehyeon) - With all one's heart and soul.
 <br/>
 
 - 역량 키워드
-  - `Back-end` / `Cloud/MSA`
+  - `Back-end` / `Cloud/MSA` / `Linux`
   - `AI` / `Robust Speech Recognition` / `Data Analysis`
   - `Financial Service`
 
