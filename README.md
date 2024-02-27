@@ -34,7 +34,7 @@ DevTae (Kim Taehyeon) - With all one's heart and soul.
     - `SpeechFeedback` [[Repo]](https://github.com/DevTae/SpeechFeedback) : 2023.3 - 2023.6
       - **음성인식 AI 기술**, **FastAPI** 기반 **한국어 발음 교정 시스템** 개발
   - **한국햅틱스학회** `홈 시어터 환경에서의 다감각 4D 효과 자동 생성` [[Paper]](https://github.com/DevTae/MILabPaper/blob/main/%5B%EB%85%BC%EB%AC%B8%EC%B4%88%EB%A1%9D%5D%20%ED%99%88%20%EC%8B%9C%EC%96%B4%ED%84%B0%20%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98%20%EB%8B%A4%EA%B0%90%EA%B0%81%204D%20%ED%9A%A8%EA%B3%BC%20%EC%9E%90%EB%8F%99%20%EC%83%9D%EC%84%B1.pdf) [[Poster]](https://github.com/DevTae/MILabPaper/blob/main/%5B%ED%8F%AC%EC%8A%A4%ED%84%B0%5D%20%ED%99%88%20%EC%8B%9C%EC%96%B4%ED%84%B0%20%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98%20%EB%8B%A4%EA%B0%90%EA%B0%81%204D%20%ED%9A%A8%EA%B3%BC%20%EC%9E%90%EB%8F%99%20%EC%83%9D%EC%84%B1.pdf)
-    - `PsychoAcousticsAnalysis` [Private Repo] : 2023.9 - 2023.11
+    - `PsychoAcousticsAnalysis` [[Repo]](https://github.com/DevTae/PsychoAcousticsAnalysis) : 2023.9 - 2023.11
       - 음향 신호 데이터 기반 **햅틱 효과 자동생성 알고리즘** 연구 개발
 
 <br/>
