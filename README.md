@@ -18,7 +18,7 @@ DevTae (Kim Taehyeon) - With all one's heart and soul.
 - 개발 프로젝트 경험
   - `(주)세홍 옥내배선 시스템 설계자동화 프로젝트` : 2023.12 - 2024.7
     - **C#** 기반 AutoCAD 작업도면 설계자동화 소프트웨어 **외주용역 PM 및 단독 개발** (4,000만 원 규모)
-  - `NK에듀 학생 숙제 웹사이트 프로젝트` : 2023.12 - 2024.7
+  - `NK에듀 학생 숙제 관리 웹사이트 프로젝트` : 2023.12 - 2024.7
     - **Java Spring Boot** 기반 **학생 숙제 관리 웹사이트 백엔드** 외주용역 개발
   - `DB Inc. 캡스톤디자인 업무 관리 웹사이트 프로젝트` [[Repo]](https://github.com/DB-Inc-Capstone) : 2023.7 - 2024.6
     - **Cloud/MSA(Microservice Architecture)**, **Java Spring Boot** 기반 **사원 업무 관리 웹사이트 백엔드** 개발
