@@ -58,7 +58,7 @@ DevTae (Kim Taehyeon) - With all one's heart and soul.
 <br/>
 
 - 주요 활동
-  - `Multimodal Intelligence and Interaction Lab 학부연구생` (**딥러닝** 및 **햅틱스**, **HCI** 연구실 / **리눅스 GPU 서버 관리자** 역할 수행) : 2023.3 -  
+  - `MILab 학부연구생` (**딥러닝** 및 **햅틱스**, **HCI** 연구실 / **리눅스 GPU 서버 관리자** 역할 수행) : 2023.3 -  
   - `HEMA 락밴드 중앙동아리` (신입생 대표팀 보컬 활동) : 2022.4 - 2023.4
   - `Edge Cloud Lab 학부연구생` (**리눅스 디바이스 드라이버 기반 클라우드 기술**에 대한 자료 [[Repo]](https://github.com/DevTae/Linux-Device-Driver) 제작) : 2023.1 - 2023.2
   - `한양대학교 글로벌다문화 멘토링` (**외국인 학생**을 대상으로 **한글 교육** 진행) : 2022.4 - 2022.10
