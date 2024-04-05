@@ -22,6 +22,8 @@ DevTae (Kim Taehyeon) - With all one's heart and soul.
     - **Java Spring Boot** 기반 **학생 숙제 관리 웹사이트 백엔드** 외주용역 개발
   - `DB Inc. 캡스톤디자인 업무 관리 웹사이트 프로젝트` [[Repo]](https://github.com/DB-Inc-Capstone) : 2023.7 - 2024.6
     - **Cloud/MSA(Microservice Architecture)**, **Java Spring Boot** 기반 **사원 업무 관리 웹사이트 백엔드** 개발
+  - `SpeechFeedback` [[Repo]](https://github.com/DevTae/SpeechFeedback) : 2023.3 - 2023.6
+    - **Docker**, **음성인식 AI 기술**, **FastAPI** 기반 **한국어 발음 교정 시스템** 개발
 
 <br/>
 
@@ -31,8 +33,6 @@ DevTae (Kim Taehyeon) - With all one's heart and soul.
       - **소음 환경**에서의 **음성인식 AI 기술**을 활용한 **로봇 제어 알고리즘** 연구 개발
     - `PronunciationEvaluator` [[Repo]](https://github.com/DevTae/PronunciationEvaluator) : 2023.7
       - **IPA(International Phonetic Alphabet) 발음 기호** 기반 **발음 평가 지표(PER)** 개발
-    - `SpeechFeedback` [[Repo]](https://github.com/DevTae/SpeechFeedback) : 2023.3 - 2023.6
-      - **음성인식 AI 기술**, **FastAPI** 기반 **한국어 발음 교정 시스템** 개발
   - **한국햅틱스학회** `홈 시어터 환경에서의 다감각 4D 효과 자동 생성` (공동저자) [[Paper]](https://github.com/DevTae/MILabPaper/blob/main/%5B%EB%85%BC%EB%AC%B8%EC%B4%88%EB%A1%9D%5D%20%ED%99%88%20%EC%8B%9C%EC%96%B4%ED%84%B0%20%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98%20%EB%8B%A4%EA%B0%90%EA%B0%81%204D%20%ED%9A%A8%EA%B3%BC%20%EC%9E%90%EB%8F%99%20%EC%83%9D%EC%84%B1.pdf) [[Poster]](https://github.com/DevTae/MILabPaper/blob/main/%5B%ED%8F%AC%EC%8A%A4%ED%84%B0%5D%20%ED%99%88%20%EC%8B%9C%EC%96%B4%ED%84%B0%20%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98%20%EB%8B%A4%EA%B0%90%EA%B0%81%204D%20%ED%9A%A8%EA%B3%BC%20%EC%9E%90%EB%8F%99%20%EC%83%9D%EC%84%B1.pdf)
     - `PsychoAcousticsAnalysis` [[Repo]](https://github.com/DevTae/PsychoAcousticsAnalysis) : 2023.9 - 2023.11
       - 음향 신호 데이터 기반 **햅틱 효과 자동생성 알고리즘** 연구 개발
