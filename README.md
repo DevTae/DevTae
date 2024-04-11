@@ -1,7 +1,6 @@
 DevTae (Kim Taehyeon) - With all one's heart and soul.
 =====
 
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDevTae&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br/>
 [![DevTae's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevTae&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -9,9 +8,9 @@ DevTae (Kim Taehyeon) - With all one's heart and soul.
 <br/>
 
 - 역량 키워드
-  - `Back-end` / `Cloud/MSA` / `Linux`
-  - `AI` / `Robust Speech Recognition` / `Data Analysis`
-  - `Financial Service`
+  - `Back-end` / `Cloud/MSA` / `Linux` / `Computer Science (CS)`
+  - `Industrial` / `Educational` / `Financial`
+  - `Artificial Intelligence (AI)` / `Robust Speech Recognition` / `Data Analysis`
 
 <br/>
 
@@ -58,7 +57,8 @@ DevTae (Kim Taehyeon) - With all one's heart and soul.
 <br/>
 
 - 주요 활동
-  - `MILab 학부연구생` (**딥러닝** 및 **햅틱스**, **HCI** 연구실 / **리눅스 GPU 서버 관리자** 역할 수행) : 2023.3 -  
+  - `(주)크레버스 씨큐브코딩 파트타임 강사` (**초·중학생** 대상 **아두이노 및 알고리즘 수업** 진행) : 2024.3 - 
+  - `MILab 학부연구생` (**딥러닝** 및 **햅틱스**, **HCI** 연구실 / **리눅스 GPU 서버 관리자** 역할 수행) : 2023.3 - 
   - `HEMA 락밴드 중앙동아리` (신입생 대표팀 보컬 활동) : 2022.4 - 2023.4
   - `Edge Cloud Lab 학부연구생` (**리눅스 디바이스 드라이버 기반 클라우드 기술**에 대한 자료 [[Repo]](https://github.com/DevTae/Linux-Device-Driver) 제작) : 2023.1 - 2023.2
   - `한양대학교 글로벌다문화 멘토링` (**외국인 학생**을 대상으로 **한글 교육** 진행) : 2022.4 - 2022.10
