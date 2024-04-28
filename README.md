@@ -39,7 +39,7 @@ DevTae (Kim Taehyeon) - With all one's heart and soul.
 <br/>
 
 - 증권 프로젝트 경험
-  - `InvestorRoadmap` [Private Repo] : 2024.1 - 2024.2
+  - `InvestorRoadmap` [[Repo]](https://github.com/DevTae/InvestorRoadmap) : 2024.1 - 2024.2
     - **XAI(eXplainable AI / 설명 가능한 AI)** 기반 **투자 습관 교정 솔루션** 개발
   - `StockPricePrediction` [[Preview]](https://github.com/DevTae/StockPricePredictionPreview) : 2023.7 - 2024.1
     - **시계열 데이터 분석 및 LSTM 모델** 기반 **주식 시초가 상승/하락 예측 모델** 개발
