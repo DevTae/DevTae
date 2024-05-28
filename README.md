@@ -15,7 +15,7 @@ DevTae (Kim Taehyeon) - With all one's heart and soul.
 <br/>
 
 - 개발 프로젝트 경험
-  - `NK에듀 학생 숙제 관리 웹사이트 프로젝트` [[Repo]](https://github.com/NKdevelop1) : 2023.12 - 2024.6
+  - `NK에듀 학생 숙제 관리 웹사이트 프로젝트` [[Repo]](https://github.com/NKdevelop1/NK_develop_back) : 2023.12 - 2024.6
     - **Java Spring Boot** 기반 **학생 숙제 관리 웹사이트 백엔드** 외주용역 개발
   - `DB Inc. 캡스톤디자인 업무 관리 웹사이트 프로젝트` [[Repo]](https://github.com/DB-Inc-Capstone) : 2023.7 - 2024.6
     - **Cloud/MSA(Microservice Architecture)**, **Java Spring Boot** 기반 **사원 업무 관리 웹사이트 백엔드** 개발
