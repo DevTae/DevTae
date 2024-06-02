@@ -30,4 +30,4 @@ DevTae (Kim Taehyeon) - With all one's heart and soul.
 
 <br/>
 
-- 🍀 [[RESUME]](https://github.com/DevTae/DevTae/blob/main/RESUME.md) !!!
+- 🍀 [RESUME](https://github.com/DevTae/DevTae/blob/main/RESUME.md) !!!
