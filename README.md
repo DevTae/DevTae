@@ -19,7 +19,7 @@ DevTae (Kim Taehyeon) - With all one's heart and soul.
     - `Java` / `Spring Boot` / `Python` / `Django` / `FastAPI` / `RESTful API` / `JPA` / `Mybatis`
     - `HTML5` / `CSS3` / `JavaScript`
   - Server & DB
-    - `Nginx` / `AWS EC2` / `Docker` / `Docker Compose`
+    - `Nginx` / `AWS EC2` / `Docker` / `Docker Compose` / `Kubernetes`
     - `MySQL` / `PostgreSQL`
   - OS
     - `Linux (Ubuntu, Ubuntu Server)`
