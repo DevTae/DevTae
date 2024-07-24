@@ -23,7 +23,7 @@ DevTae (Kim Taehyeon) - With all one's heart and soul.
   - Server & DB
     - `Nginx` / `MySQL` / `PostgreSQL`
   - OS
-    - `Linux (Ubuntu, Ubuntu Server)` / `WinForm (WPF)`
+    - `Linux (Ubuntu, Ubuntu Server, Centos)`
   - Tools
     - `Eclipse` / `Visual Studio` / `PyCharm` / `Jupyter Notebook` / `Insomnia`
   - Collaboration
