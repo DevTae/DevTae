@@ -5,13 +5,20 @@
 
 <br/>
 
+- 개발 경력
+  <!-- - `Kakao Enterprise 인턴` (**클라우드 서비스 엔지니어링** 업무 수행) : 2024.7 - 2024.8 -->
+  - `MILab 학부연구생` (**딥러닝** 및 **햅틱스**, **HCI** 연구실 / **리눅스 GPU 서버 관리자** 역할 수행) : 2023.3 - 2024.6
+  - `Edge Cloud Lab 학부연구생` (**클라우드 기술 리서치** 및 **리눅스 디바이스 드라이버** 프로젝트 [[Repo]](https://github.com/DevTae/Linux-Device-Driver) 진행) : 2023.1 - 2023.2
+
+<br/>
+
 - 개발 프로젝트 경험
-  - `NK에듀 학생 숙제 관리 웹사이트 프로젝트` [[Repo]](https://github.com/NKdevelop1/NK_develop_back) : 2023.12 - 2024.6
-    - **Java Spring Boot** 기반 **학생 숙제 관리 웹사이트 백엔드** 외주용역 개발
   - `DB Inc. 캡스톤디자인 업무 관리 웹사이트 프로젝트` [[Repo]](https://github.com/DB-Inc-Capstone) : 2023.7 - 2024.6
     - **Cloud/MSA(Microservice Architecture)**, **Java Spring Boot** 기반 **사원 업무 관리 웹사이트 백엔드 개발** 및 **CI/CD 구축**
   - `(주)세홍 옥내배선 시스템 설계자동화 프로젝트` [Private Repo] : 2023.12 - 2024.6
     - **C#** 기반 AutoCAD 작업도면 설계자동화 소프트웨어 **외주용역 PM 및 단독 개발** (4,000만 원 규모)
+  - `NK에듀 학생 숙제 관리 웹사이트 프로젝트` [[Repo]](https://github.com/NKdevelop1/NK_develop_back) : 2023.12 - 2024.6
+    - **Java Spring Boot** 기반 **학생 숙제 관리 웹사이트 백엔드** 외주용역 개발
   - `SpeechFeedback` [[Repo]](https://github.com/DevTae/SpeechFeedback) : 2023.3 - 2023.6
     - **Docker**, **음성인식 AI 기술**, **FastAPI** 기반 **한국어 발음 교정 시스템** 개발
 
@@ -54,9 +61,7 @@
 
 - 주요 외부 활동
   - `(주)크레버스 씨큐브코딩 파트타임 강사` (**초·중학생** 대상 **아두이노 및 알고리즘 수업** 진행) : 2024.3 - 2024.6
-  - `MILab 학부연구생` (**딥러닝** 및 **햅틱스**, **HCI** 연구실 / **리눅스 GPU 서버 관리자** 역할 수행) : 2023.3 - 2024.6
   - `HEMA 락밴드 중앙동아리` (신입생 대표팀 보컬 활동) : 2022.4 - 2023.4
-  - `Edge Cloud Lab 학부연구생` (**클라우드 기술 리서치** 및 **리눅스 디바이스 드라이버** 프로젝트 [[Repo]](https://github.com/DevTae/Linux-Device-Driver) 진행) : 2023.1 - 2023.2
   - `한양대학교 글로벌다문화 멘토링` (**외국인 학생** 대상 **한글 교육** 진행) : 2022.4 - 2022.10
   
 <br/>
