@@ -8,22 +8,22 @@ DevTae (Kim Taehyeon) - With all one's heart and soul.
 <br/>
 
 - Keywords
-  - `Server` / `Back-end` / `Cloud/MSA` / `Linux` / `Computer Science (CS)`
-  - `Industrial` / `Educational` / `Financial`
-  - `Artificial Intelligence (AI)` / `Robust Speech Recognition` / `Data Analysis`
+  - Skills in: `Server OS` / `Cloud Platform` / `Back-End` / `Computer Science (CS)`
+  - Experience in:  `IT` / `Construction` / `Educational` / `Financial`
+  - Knowledgeable in: `Artificial Intelligence (AI)` / `Robust Speech Recognition` / `Data Analysis`
 
 <br/>
 
-- Technical Stack
-  - Cloud
-    - `Docker` / `Docker Compose` / `Kubernetes` / `OpenStack` / `AWS EC2`
+- Technical Stack in Detailed
+  - Server OS
+    - `Linux (Ubuntu, Ubuntu Server, Centos)`, `Bash Script`
+  - Cloud Platform
+    - `OpenStack` / `Kubernetes` / `Docker` / `Docker Compose` / `MSA` / `AWS EC2`
   - Back-End & Front-End
     - `Java` / `Spring Boot` / `Python` / `Django` / `FastAPI` / `RESTful API` / `JPA` / `Mybatis`
     - `HTML5` / `CSS3` / `JavaScript`
-  - Server & DB
+  - Web Server & DB
     - `Nginx` / `MySQL` / `PostgreSQL`
-  - OS
-    - `Linux (Ubuntu, Ubuntu Server, Centos)`
   - Tools
     - `Eclipse` / `Visual Studio` / `PyCharm` / `Jupyter Notebook` / `Insomnia`
   - Collaboration
@@ -31,4 +31,5 @@ DevTae (Kim Taehyeon) - With all one's heart and soul.
 
 <br/>
 
-- 🍀 [RESUME](https://github.com/DevTae/DevTae/blob/main/RESUME.md) !!!
+- For further information, please click the link below!
+  - 🍀 [RESUME](https://github.com/DevTae/DevTae/blob/main/RESUME.md)
