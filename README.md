@@ -8,18 +8,18 @@ DevTae (Kim Taehyeon) - With all one's heart and soul.
 <br/>
 
 - Keywords
-  - `Back-end` / `Cloud/MSA` / `Linux` / `Computer Science (CS)`
+  - `Server` / `Back-end` / `Cloud/MSA` / `Linux` / `Computer Science (CS)`
   - `Industrial` / `Educational` / `Financial`
   - `Artificial Intelligence (AI)` / `Robust Speech Recognition` / `Data Analysis`
 
 <br/>
 
 - Technical Stack
+  - Cloud
+    - `Docker` / `Docker Compose` / `Kubernetes` / `OpenStack` / `AWS EC2`
   - Back-End & Front-End
     - `Java` / `Spring Boot` / `Python` / `Django` / `FastAPI` / `RESTful API` / `JPA` / `Mybatis`
     - `HTML5` / `CSS3` / `JavaScript`
-  - Cloud
-    - `Docker` / `Docker Compose` / `Kubernetes` / `OpenStack` / `AWS EC2`
   - Server & DB
     - `Nginx` / `MySQL` / `PostgreSQL`
   - OS
