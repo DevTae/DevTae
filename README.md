@@ -9,7 +9,7 @@ DevTae (Kim Taehyeon) - With all one's heart and soul.
 
 - Keywords
   - Skills in: `Server OS` / `Cloud Platform` / `Back-End` / `Computer Science (CS)`
-  - Experience in:  `IT` / `Construction` / `Educational` / `Financial`
+  - Experience in:  `Cloud Service` / `IT Service` / `Construction` / `Education` / `Finance`
   - Knowledgeable in: `Artificial Intelligence (AI)` / `Robust Speech Recognition` / `Data Analysis`
 
 <br/>
