@@ -8,7 +8,7 @@
 - 조직 경험 및 경력
   - `Kakao Enterprise 인턴` (**클라우드 서비스 엔지니어링** 업무 수행 / **OpenStack** 프로젝트 개발 [[Article]](https://biz.chosun.com/it-science/ict/2024/09/04/RLLXETAVNVBVRKU6FS7E2PD5MM/?utm_source=naver&utm_medium=original&utm_campaign=biz)) : 2024.7 - 2024.8
   - `MILab 학부연구생` (**딥러닝** 및 **햅틱스**, **HCI** 연구실 / **리눅스 GPU 서버 관리자** 역할 수행 [[Repo]](https://github.com/DevTae/MILabLinuxScripts)) : 2023.3 - 2024.6
-  - `Edge Cloud Lab 학부연구생` (**클라우드 기술 리서치** 및 **리눅스 디바이스 드라이버** 프로젝트 진행 [[Repo]](https://github.com/DevTae/Linux-Device-Driver)) : 2023.1 - 2023.2
+  - `Edge Cloud Lab 학부연구생` (**클라우드 기술 리서치** 및 **리눅스 디바이스 드라이버** 프로젝트 실습 진행 [[Repo]](https://github.com/DevTae/Linux-Device-Driver)) : 2023.1 - 2023.2
 
 <br/>
 
