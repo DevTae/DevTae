@@ -37,7 +37,7 @@
     - **음성인식 AI 기술** 및 **멀티스레딩 기법** 적용 / **산학협력 R&D 사업 프로젝트** 연구 개발
   - `햅틱 효과 자동생성 프로젝트 개발` [[Repo]](https://github.com/DevTae/PsychoAcousticsAnalysis) [[Paper]](https://github.com/DevTae/MILabPaper/blob/main/%5B%EB%85%BC%EB%AC%B8%EC%B4%88%EB%A1%9D%5D%20%ED%99%88%20%EC%8B%9C%EC%96%B4%ED%84%B0%20%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98%20%EB%8B%A4%EA%B0%90%EA%B0%81%204D%20%ED%9A%A8%EA%B3%BC%20%EC%9E%90%EB%8F%99%20%EC%83%9D%EC%84%B1.pdf) [[Poster]](https://github.com/DevTae/MILabPaper/blob/main/%5B%ED%8F%AC%EC%8A%A4%ED%84%B0%5D%20%ED%99%88%20%EC%8B%9C%EC%96%B4%ED%84%B0%20%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98%20%EB%8B%A4%EA%B0%90%EA%B0%81%204D%20%ED%9A%A8%EA%B3%BC%20%EC%9E%90%EB%8F%99%20%EC%83%9D%EC%84%B1.pdf) : 2023.9 - 2023.11
     - **한국햅틱스학회** `홈 시어터 환경에서의 다감각 4D 효과 자동 생성` (공동저자)
-    - 음향 신호 데이터 분석 기반 **햅틱 효과 자동생성 알고리즘** 연구 개발
+    - 음향 신호 데이터 기반 **햅틱 효과 자동생성 알고리즘** 연구 개발
     
 <br/>
 
