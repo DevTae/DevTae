@@ -1,10 +1,19 @@
 ### ALGORITHM PLANNING
 
-- 기간 : 24.9.7 - 24.10.18 (42일)
-- 목표 : 1일 1문제 풀이 (총 42문제 풀이)
-- 언어 : Python
-- 문제집 : 삼성 SW 역량 테스트 기출 문제 [[url]](https://www.acmicpc.net/workbook/view/1152)
-
+- 기간
+  - 24.9.7 - 24.10.11 (35일)
+- 목표
+  - 1일 1문제 풀이 (~24/9/12) 
+  - 1일 2문제 풀이 (24/9/13~24/10/11)
+- 언어
+  - Python
+- 문제집
+  - 문제 리스트 [[url]](https://www.codetree.ai/training-field/frequent-problems/company/samsung/threads/67)
+  - 백준 [[url]](https://www.acmicpc.net/workbook/view/1152)
+  - 코드트리 [[url]](https://www.codetree.ai/training-field/frequent-problems/company/samsung/problems)
+- 참고
+  - 문제 번호에 번호만 작성되어 있을 경우 백준이며, 문제 이름이 작성되어 있을 경우, 코드트리 문제입니다.
+  
 |날짜|완료여부|문제번호|알고리즘|
 |-----|-------|--------|--------|
 |24.9.7|O|12100|완전탐색|
