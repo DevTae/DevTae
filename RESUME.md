@@ -46,8 +46,8 @@
   - `주가 딥러닝 예측 개인 프로젝트` : 2023.7 - 2024.1
     - **시계열 데이터 분석 및 LSTM 모델** 기반 **주식 시초가 상승/하락 예측 모델** 개발 [[Preview]](https://github.com/DevTae/StockPricePredictionPreview)
   - `주식 가격 및 보조지표 데이터 수집 시스템 개발` : 2021.11 - 2023.2
-    - **주식 가격 및 보조지표** 기반 **데이터 수집 시스템** 개발 [Preview](https://github.com/DevTae/StockToolsPreview?tab=readme-ov-file#stockdatabase-project) : 2021.11 - 2022.3
-    - **기술적 분석 매매 전략** 기반 **주식 백테스팅 프로그램** 개발 [Preview](https://github.com/DevTae/StockToolsPreview?tab=readme-ov-file#stockbacktester-project) : 2022.8 - 2023.2
+    - **주식 가격 및 보조지표** 기반 **데이터 수집 시스템** 개발 [[Preview]](https://github.com/DevTae/StockToolsPreview?tab=readme-ov-file#stockdatabase-project) : 2021.11 - 2022.3
+    - **기술적 분석 매매 전략** 기반 **주식 백테스팅 프로그램** 개발 [[Preview]](https://github.com/DevTae/StockToolsPreview?tab=readme-ov-file#stockbacktester-project) : 2022.8 - 2023.2
 
 <br/>
 
