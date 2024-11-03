@@ -16,7 +16,7 @@ DevTae (Kim Taehyeon) - With all one's heart and soul.
 
 - Technical Stack in Detailed
   - Server OS
-    - `Linux (Ubuntu, Ubuntu Server, Centos)`, `Bash Script`
+    - `Linux (Ubuntu, Ubuntu Server, Centos)` / `Bash Script` / `Ansible`
   - Cloud Platform
     - `OpenStack` / `Kubernetes` / `Docker` / `Docker Compose` / `MSA` / `AWS EC2`
   - Back-End & Front-End
