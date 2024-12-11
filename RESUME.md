@@ -1,7 +1,7 @@
 # RESUME
 
 - 한 줄 소개
-  - 시스템의 **효율성 및 안정성 향상**에 몰두하는 `Cloud Engineer`, 김태현입니다.
+  - 시스템의 **효율성 및 안정성 향상**에 몰두하는 `Application Architect`, 김태현입니다.
 
 <br/>
 
