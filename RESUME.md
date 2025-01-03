@@ -22,7 +22,7 @@
   - `(주)세홍 작업도면 설계 및 견적 자동화 외주 프로젝트` : 2023.12 - 2024.6
     - **C#** 기반 **AutoCAD 작업도면 설계 및 견적 자동화** 소프트웨어 **외주용역 PM 및 단독 개발** (4,000만 원 규모)
   - `NK에듀 학생 숙제 관리 웹사이트 외주 팀프로젝트` : 2023.12 - 2024.6
-    - **Java Spring Boot** 기반 **학생 숙제 관리 웹사이트 백엔드** 외주용역 개발 [[Repo]](https://github.com/NKdevelop1/NK_develop_back)
+    - **Java Spring Boot** 기반 **학생 숙제 관리 웹사이트 백엔드** 외주용역 개발 [[Repo]](https://github.com/DevTae/NK_develop_back)
   - `(주)미래시티글로벌 소음 환경에서의 음성 기반 로봇 제어 산학협력 프로젝트` : 2023.3 - 2023.12
     - **한국로봇학회** `궤도로봇의 직관적 제어를 위한 음성-제스쳐 인식 모델` (1저자) [[Paper]](https://github.com/DevTae/MILabPaper/blob/main/%5B%EB%85%BC%EB%AC%B8%EC%B4%88%EB%A1%9D%5D%20%EA%B6%A4%EB%8F%84%EB%A1%9C%EB%B4%87%EC%9D%98%20%EC%A7%81%EA%B4%80%EC%A0%81%20%EC%A0%9C%EC%96%B4%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%9D%8C%EC%84%B1-%EC%A0%9C%EC%8A%A4%EC%B3%90%20%EC%9D%B8%EC%8B%9D%20%EB%AA%A8%EB%8D%B8.pdf) [[Poster]](https://github.com/DevTae/MILabPaper/blob/main/%5B%ED%8F%AC%EC%8A%A4%ED%84%B0%5D%20%EA%B6%A4%EB%8F%84%EB%A1%9C%EB%B4%87%EC%9D%98%20%EC%A7%81%EA%B4%80%EC%A0%81%20%EC%A0%9C%EC%96%B4%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%9D%8C%EC%84%B1-%EC%A0%9C%EC%8A%A4%EC%B3%90%20%EC%9D%B8%EC%8B%9D%20%EB%AA%A8%EB%8D%B8.pdf)
     - **음성인식 AI 기술** 및 **멀티스레딩 기법** 적용 / **산학협력 R&D 사업 프로젝트** 연구 개발 [Private Repo]
