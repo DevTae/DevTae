@@ -28,8 +28,3 @@ DevTae (Kim Taehyeon) - With all one's heart and soul.
     - `Eclipse` / `Visual Studio` / `PyCharm` / `Jupyter Notebook` / `Insomnia`
   - Collaboration
     - `Github` / `Slack` / `Notion`
-
-<br/>
-
-- For further information, please click the link below!
-  - 🍀 [RESUME](https://github.com/DevTae/DevTae/blob/main/RESUME.md)
