@@ -8,23 +8,25 @@ DevTae (Kim Taehyeon) - With all one's heart and soul.
 <br/>
 
 - Keywords
-  - Skills in: `Server OS` / `Cloud Platform` / `Back-End` / `Computer Science (CS)`
-  - Experience in:  `Cloud Service` / `IT Service` / `Construction` / `Education` / `Finance`
-  - Knowledgeable in: `Artificial Intelligence (AI)` / `Robust Speech Recognition` / `Data Analysis`
+  - Skills in: `Cloud Infrastructure` / `Linux Server` / `Back-End` / `Artificial Intelligence (AI)`
+  - Knowledgeable in:  `Computer Science (CS)` / `Linux Kernel` / `Robust Speech Recognition` / `Data Analysis`
 
 <br/>
 
 - Technical Stack in Detailed
-  - Server OS
-    - `Linux (Ubuntu, Ubuntu Server, Centos)` / `Bash Script` / `Ansible`
-  - Cloud Platform
+  - Cloud Infrastructure
     - `OpenStack` / `Kubernetes` / `Docker` / `Docker Compose` / `MSA` / `AWS EC2`
+  - Linux Server
+    - `Linux (Ubuntu, Ubuntu Server, Centos)` / `Bash Script` / `Ansible`
   - Back-End & Front-End
-    - `Java` / `Spring Boot` / `Python` / `Django` / `FastAPI` / `RESTful API` / `JPA` / `Mybatis`
+    - `Java Spring Boot` / `Django` / `FastAPI`
+    - `JPA` / `Mybatis` / `SQLAlchemy`
     - `HTML5` / `CSS3` / `JavaScript`
-  - Web Server & DB
-    - `Nginx` / `MySQL` / `PostgreSQL`
+  - WEB & WAS & DB
+    - `Nginx` / `Tomcat` / `MySQL` / `PostgreSQL`
+  - Artificial Intelligence
+    - `PyTorch` / `TensorFlow`
   - Tools
-    - `Eclipse` / `Visual Studio` / `PyCharm` / `Jupyter Notebook` / `Insomnia`
+    - `Visual Studio` / `Eclipse` / `PyCharm` / `Jupyter Notebook` / `Insomnia`
   - Collaboration
     - `Github` / `Slack` / `Notion`
